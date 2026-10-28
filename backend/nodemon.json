@@ -1,0 +1,6 @@
+{
+  "watch": ["src", "server.js", ".env"],
+  "ext": "js,mjs,cjs,json,env",
+  "ignore": ["node_modules", "src/seed.js"],
+  "delay": "300"
+}
